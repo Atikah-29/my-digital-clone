@@ -1,0 +1,5 @@
+streamlit
+rank_bm25==0.2.2
+fastembed==0.9.1
+numpy
+requests

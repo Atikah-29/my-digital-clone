@@ -1,0 +1,5 @@
+# For your laptop only: build_index.py and local testing with sentence-transformers
+-r requirements.txt
+sentence-transformers==5.6.1
+transformers==4.57.6
+huggingface_hub==0.36.2
